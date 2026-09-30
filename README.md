@@ -1,6 +1,6 @@
 # Inscripción a cursos — DOM, eventos y formularios
 
-**Estudiante:** Abraham Gómez - Emmanuel Hernandez
+**Estudiantes:** Abraham Gómez - Emmanuel Hernandez
 **Grupo:** #11
 **Asignatura:** Ingeniería Web — Laboratorio Avanzado JS: DOM, Eventos y Validación de formularios 
 **Universidad:** Universidad Tecnológica de Panamá
