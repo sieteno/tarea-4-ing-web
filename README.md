@@ -1,16 +1,15 @@
 # Inscripción a cursos — DOM, eventos y formularios
 
-**Estudiante:** COMPLETAR NOMBRE Y APELLIDO  
-**Grupo:** COMPLETAR GRUPO  
-**Asignatura:** Ingeniería Web — Tarea 4  
+**Estudiante:** Abraham Gómez - Emmanuel Hernandez
+**Grupo:** #11
+**Asignatura:** Ingeniería Web — Laboratorio Avanzado JS: DOM, Eventos y Validación de formularios 
 **Universidad:** Universidad Tecnológica de Panamá
 
 ## Enlaces de entrega
 
-- Repositorio: https://github.com/TU-USUARIO/TU-REPOSITORIO
+- Repositorio: https://github.com/sieteno/tarea-4-ing-web
 - Página publicada: https://TU-USUARIO.github.io/TU-REPOSITORIO/
 
-Sustituye TU-USUARIO y TU-REPOSITORIO por los datos reales después de publicar.
 
 ## Descripción
 
@@ -39,8 +38,6 @@ Abrir `inscripcion/index.html` en un navegador moderno. No se requiere instalar 
 
 ## Evidencias
 
-**Pendiente antes de entregar:** tomar las dos capturas siguiendo `INSTRUCCIONES.md` y guardarlas con estos nombres exactos. Se usarán datos ficticios.
-
 ### 1. Validación de campos incorrectos
 
 ![Formulario con mensajes de error](capturas/01-validacion.png)
@@ -49,6 +46,3 @@ Abrir `inscripcion/index.html` en un navegador moderno. No se requiere instalar 
 
 ![Tarjeta de confirmación](capturas/02-confirmacion.png)
 
-## Comprobación
-
-Se revisó la sintaxis JavaScript y se ejecutaron comprobaciones aisladas de las reglas: nombres con tildes, cédula, correo, celular, edad mínima, contraseña, confirmación, comentarios y términos. Falta realizar la comprobación visual y de interacción en el navegador del estudiante, indicada en `INSTRUCCIONES.md`.
