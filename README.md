@@ -8,7 +8,7 @@
 ## Enlaces de entrega
 
 - Repositorio: https://github.com/sieteno/tarea-4-ing-web
-- Página publicada: https://sieteno.github.io/tarea-4-ing-web/
+- Página publicada: https://sieteno.github.io/tarea-4-ing-web/inscripcion/
 
 
 ## Descripción
